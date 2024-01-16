@@ -54,6 +54,12 @@ This Project contains the following Blueprints.
 
 
 
+### Deploy Intel NUC 11 Extreme Kit - NUC11BTMi9 Drivers to a Drop Directory on Windows
+
+
+### Deploy Intel NUC Mini PC with 10th Generation Intel Core Processors Drivers to a Drop Directory on Windows
+
+
 ### Deploy nuc Drivers to a Drop Directory
 
 
@@ -65,10 +71,10 @@ This Project contains the following Blueprints.
 
 | Name | Type | Script Reference | Comment |
 | ---- | ---- | ---------------- | ------- |
-| Automation Worker Base Directory | Text | `automationworkerbasedirectory` | Directory for storing automation files. |
-| New Node | Basic Node | `newnode` | The node being kickstarted. |
-| Automation Worker User | Basic Credential | `automationworkeruser` |  |
+| Automation Worker Base Directory Unix Format | Text | `automationworkerbasedirectoryunixformat` | eg. "/$c/directory" |
 | Automation Worker Node | Basic Node | `automationworkernode` |  |
+| Automation Worker User | Basic Credential | `automationworkeruser` |  |
+| New Node | Basic Node | `newnode` | The node being kickstarted. |
 
 
 
@@ -77,6 +83,8 @@ This Project contains the following Blueprints.
 
 | Name | Type | Comment |
 | ---- | ---- | ------- |
+| Mini PC with 10th Gen - LAN | Large Archives | Intel® NUC Mini PC with 10th Generation Intel® Core™ Processors.<br><br>Intel® Ethernet (LAN) Network Driver for Windows® 10 & Windows 11* for Intel® NUC 10 Performance Kits & Mini PCs - NUC10FN.<br><br>Version: 12.19.2.50<br>OS: Windows 11*Windows 10, 64-bit*<br>Type: Drivers |
+| NUC 11 Extreme Kit - NUC11BTMi9 - LAN Drivers | Large Archives | This package includes the Intel® Network (LAN) Adapters for Windows® 10 64-bit for the Intel® NUC 11 Extreme Kits - NUC11BTM/Intel® NUC 11 Extreme Compute Elements NUC11DBB.<br><br>Version: 1.1.4.38<br>OS: Windows 10, 64-bit*<br>Type: Drivers |
 | nuc Drivers | Large Archives |  |
 
 

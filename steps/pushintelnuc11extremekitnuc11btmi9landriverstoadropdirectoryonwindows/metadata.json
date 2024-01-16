@@ -1,0 +1,13 @@
+{
+    "actionOnStepFail": "stop", 
+    "archiveKey": "nuc11extremekitnuc11btmi9landrivers", 
+    "deployPath": "{automationWorkerBaseDirectoryUnixFormat}\\drivers-{newNode.fqn}", 
+    "enabled": true, 
+    "externalUuid4": "b78c7053-e4bf-4267-b43b-382782d81d20", 
+    "key": "pushintelnuc11extremekitnuc11btmi9landriverstoadropdirectoryonwindows", 
+    "name": "Push Intel NUC 11 Extreme Kit - NUC11BTMi9 LAN Drivers to a Drop Directory on Windows", 
+    "osCredKey": "automationworkeruser", 
+    "serverKey": "automationworkernode", 
+    "type": "com.servertribe.attune.tuples.StepPushDesignFileTuple", 
+    "unpack": true
+}

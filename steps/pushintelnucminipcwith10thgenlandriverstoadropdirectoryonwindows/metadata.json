@@ -1,0 +1,13 @@
+{
+    "actionOnStepFail": "stop", 
+    "archiveKey": "minipcwith10thgenlan", 
+    "deployPath": "{automationWorkerBaseDirectoryUnixFormat}\\drivers-{newNode.fqn}", 
+    "enabled": true, 
+    "externalUuid4": "4ae78e39-9f28-49bb-9dba-821d8f15bd79", 
+    "key": "pushintelnucminipcwith10thgenlandriverstoadropdirectoryonwindows", 
+    "name": "Push Intel NUC Mini PC with 10th Gen - LAN Drivers to a Drop Directory on Windows", 
+    "osCredKey": "automationworkeruser", 
+    "serverKey": "automationworkernode", 
+    "type": "com.servertribe.attune.tuples.StepPushDesignFileTuple", 
+    "unpack": true
+}

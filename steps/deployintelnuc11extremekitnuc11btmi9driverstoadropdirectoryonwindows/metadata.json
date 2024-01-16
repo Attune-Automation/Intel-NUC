@@ -1,0 +1,16 @@
+{
+    "actionOnStepFail": "stop", 
+    "concurrency": 1, 
+    "enabled": true, 
+    "externalUuid4": "7e6b1d56-5f87-49a9-82bc-3415140bb8ee", 
+    "isBlueprint": true, 
+    "key": "deployintelnuc11extremekitnuc11btmi9driverstoadropdirectoryonwindows", 
+    "links": [
+        {
+            "order": 0, 
+            "stepKey": "pushintelnuc11extremekitnuc11btmi9landriverstoadropdirectoryonwindows"
+        }
+    ], 
+    "name": "Deploy Intel NUC 11 Extreme Kit - NUC11BTMi9 Drivers to a Drop Directory on Windows", 
+    "type": "com.servertribe.attune.tuples.StepGroupTuple"
+}

@@ -1,0 +1,11 @@
+{
+    "externalUuid4": "87bb3b6d-a5f6-4837-b7e6-d37bdb0352a5", 
+    "fileName": "LAN-Win10-1.1.4.38.zip", 
+    "formatKey": "zip", 
+    "key": "nuc11extremekitnuc11btmi9landrivers", 
+    "md5": "16b6575bac3a5555eb7336eaf9bf6fd0", 
+    "name": "NUC 11 Extreme Kit - NUC11BTMi9 - LAN Drivers", 
+    "remoteUri": "https://downloadmirror.intel.com/764224/LAN-Win10-1.1.4.38.zip", 
+    "size": 965480, 
+    "type": "com.servertribe.attune.tuples.FileArchiveLargeTuple"
+}

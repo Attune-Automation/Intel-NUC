@@ -1,0 +1,11 @@
+{
+    "externalUuid4": "c877d788-a0fd-4d1e-b0f0-05b5b53786a3", 
+    "fileName": "LAN-Win10_Win11-12.19.2.50.zip", 
+    "formatKey": "zip", 
+    "key": "minipcwith10thgenlan", 
+    "md5": "668c2bc621ff8e1b74c0c70ae24b35d8", 
+    "name": "Mini PC with 10th Gen - LAN", 
+    "remoteUri": "https://downloadmirror.intel.com/767979/LAN-Win10_Win11-12.19.2.50.zip", 
+    "size": 358886, 
+    "type": "com.servertribe.attune.tuples.FileArchiveLargeTuple"
+}
